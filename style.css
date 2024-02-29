@@ -1,0 +1,20 @@
+body{
+
+    font-size:30px ;
+    font-family: arial;
+    background-color: pink,orchid;
+}
+h1{
+    font-style: italic;
+    font-size: large;
+
+}
+#para{
+    text-align: center;
+}
+p{text-align: center;
+}
+
+.center{
+    text-align: 550px;
+}
